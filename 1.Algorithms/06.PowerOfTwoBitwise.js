@@ -14,3 +14,6 @@ console.log(isPowerofTwoBitwise(1)); // true
 console.log(isPowerofTwoBitwise(2)); // true
 console.log(isPowerofTwoBitwise(5)); // false
 console.log(isPowerofTwoBitwise(16)); // true
+
+// Big O
+// O(1) - Constant
